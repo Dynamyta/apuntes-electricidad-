@@ -110,11 +110,33 @@ Pletinas de cobre aisladas que conectan varios magnetotérmicos en paralelo en l
 
 ## 10. Magnetotérmicos: Simple (1P+N) vs. Doble (2P)
 
-| Tipo | ¿Qué corta? | ¿Qué detecta/protege? | Ancho | Uso Principal |
-| :--- | :--- | :--- | :--- | :--- |
-| **1P + N** (Estándar Vivienda) | Corta **Fase y Neutro** | Protege solo en la **Fase** | **1 Módulo** (17,5 mm) | Cuadros de vivienda habituales (ahorra espacio). |
-| **2P** (Doble Completo) | Corta **Fase y Neutro** | Protege en **Fase y Neutro** | **2 Módulos** (35 mm) | Uso industrial, comercios o redes con neutro con interferencias. |
----
+<table style="width: 100%; border-collapse: collapse; margin-top: 10px;">
+  <thead>
+    <tr style="background-color: #f2f2f2; text-align: left;">
+      <th style="padding: 8px; border: 1px solid #ddd;">Tipo</th>
+      <th style="padding: 8px; border: 1px solid #ddd;">¿Qué corta?</th>
+      <th style="padding: 8px; border: 1px solid #ddd;">¿Qué detecta/protege?</th>
+      <th style="padding: 8px; border: 1px solid #ddd;">Ancho</th>
+      <th style="padding: 8px; border: 1px solid #ddd;">Uso Principal</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #ddd;"><strong>1P + N</strong><br>(Estándar Vivienda)</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">Corta <strong>Fase y Neutro</strong></td>
+      <td style="padding: 8px; border: 1px solid #ddd;">Protege solo en la <strong>Fase</strong></td>
+      <td style="padding: 8px; border: 1px solid #ddd;"><strong>1 Módulo</strong><br>(17,5 mm)</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">Cuadros de vivienda habituales (ahorra espacio).</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #ddd;"><strong>2P</strong><br>(Doble Completo)</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">Corta <strong>Fase y Neutro</strong></td>
+      <td style="padding: 8px; border: 1px solid #ddd;">Protege en <strong>Fase y Neutro</strong></td>
+      <td style="padding: 8px; border: 1px solid #ddd;"><strong>2 Módulos</strong><br>(35 mm)</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">Uso industrial, comercios o redes con interferencias.</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
