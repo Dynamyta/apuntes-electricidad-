@@ -219,9 +219,11 @@ Así se distribuye la corriente desde la entrada principal hasta cada circuito d
 
 ---
 
-## 13. Guía Rápida de Fontanería: Tuberías y Conexiones
+---
 
-### A. Comparativa de Tuberías
+## 13. Guía Rápida de Fontanería: Tuberías, Evacuación y Roscas
+
+### A. Comparativa de Tuberías de Presión
 <pre style="white-space: pre; font-family: monospace; overflow-x: auto;">
 ┌──────────────┬───────────────────────────────┬──────────────────────────────────┐
 │ Tipo Tubo    │ Método de Unión               │ Uso Principal                    │
@@ -234,16 +236,23 @@ Así se distribuye la corriente desde la entrada principal hasta cada circuito d
 ├──────────────┼───────────────────────────────┼──────────────────────────────────┤
 │ PEX (Poliet.)│ Apretando casquillo o anillo  │ Saneamiento interior, suelos     │
 │              │ de expansión.                 │ radiantes y fontanería flexible. │
-├──────────────┼───────────────────────────────┼──────────────────────────────────┤
-│ PVC / PP     │ Encolado (pegamento PVC) o    │ Evacuación de agua / desagües    │
-│              │ junta elástica de goma.       │ (fregaderos, duchas, bajantes).  │
 └──────────────┴───────────────────────────────┴──────────────────────────────────┘
 </pre>
 
 ---
 
-### B. Equivalencia de Roscas (Pulgadas ➔ Milímetros)
-En fontanería casi todo se mide en **pulgadas (")**, pero los clientes suelen medir la rosca con un metro. Guarda esta tabla para saber qué darles al instante:
+### B. Tubos de Evacuación / Desagües (PVC y PP)
+En desagües se mide **siempre en milímetros de diámetro exterior**:
+
+* **32 mm:** Desagües pequeños o antiguos de lavabos y bidés.
+* **40 mm (SÚPER VENTAS):** Estándar principal para **lavabos, bidés, duchas y bañeras**.
+* **50 mm (SÚPER VENTAS):** Estándar imprescindible para **fregaderos de cocina, lavadoras y lavavajillas** (necesitan evacuar más agua con grasa o jabón sin atascarse).
+* **90 mm / 110 mm:** Salidas de inodoro (WC) y bajantes generales.
+
+---
+
+### C. Equivalencia de Roscas (Pulgadas ➔ Milímetros)
+Las roscas se miden en **pulgadas (")**. Tabla rápida para identificar la medida al instante con un metro:
 
 <pre style="white-space: pre; font-family: monospace; overflow-x: auto;">
 ┌────────────┬──────────────┬─────────────────────────────────────────────┐
@@ -256,6 +265,10 @@ En fontanería casi todo se mide en **pulgadas (")**, pero los clientes suelen m
 │ 3/4"       │ ~ 25 mm      │ Entrada de lavadoras, lavavajillas, termos. │
 ├────────────┼──────────────┼─────────────────────────────────────────────┤
 │ 1"         │ ~ 32 mm      │ Contadores, llaves de paso principales.     │
+├────────────┼──────────────┼─────────────────────────────────────────────┤
+│ 1" 1/4     │ ~ 40 mm      │ Válvulas y sifones de lavabo / bidé.        │
+├────────────┼──────────────┼─────────────────────────────────────────────┤
+│ 1" 1/2     │ ~ 48 mm      │ Válvulas y sifones de fregadero.            │
 └────────────┴──────────────┴─────────────────────────────────────────────┘
 </pre>
 
@@ -264,10 +277,8 @@ En fontanería casi todo se mide en **pulgadas (")**, pero los clientes suelen m
 
 ---
 
-### C. Sellado de Roscas (Estanqueidad)
-* **Teflón en cinta:** Para roscas metálicas o plásticas pequeñas. Se da en el sentido de las agujas del reloj.
-* **Hilo Sellador (tipo Loctite/Teflón hilo):** Más limpio, rápido y permite reajustar la pieza un poco hacia atrás sin que pierda agua.
+### D. Sellado de Roscas (Estanqueidad)
+* **Teflón en cinta:** Para roscas metálicas o plásticas pequeñas. Dar en el sentido de las agujas del reloj.
+* **Hilo Sellador (tipo Loctite/Teflón hilo):** Más limpio y permite reajustar la pieza un poco hacia atrás sin fugas.
 * **Cáñamo + Pasta Selladora:** El método tradicional e infalible para agua caliente/fría en roscas metálicas gruesas.
-* **Juntas de Goma / Silicona:** Imprescindibles en latiguillos y enlaces racor (no necesitan teflón en la rosca).
-.
-
+* **Juntas de Goma / Silicona:** Imprescindibles en latiguillos y enlaces racor (no necesitan teflón).
