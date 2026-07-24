@@ -1,4 +1,4 @@
-# Manual de Conceptos Básicos de Electricidad y Protección
+# Manual de Conceptos Básicos de Electricidad y Protección Antenas y fontaneria .
 
 ## 1. Componentes del Cuadro General de Mando y Protección (CGMP)
 
@@ -212,7 +212,58 @@ Así se distribuye la corriente desde la entrada principal hasta cada circuito d
 </pre>
 
 ---
+---
 
+## 13. Guía Rápida de Fontanería: Tuberías y Conexiones
+
+### A. Comparativa de Tuberías
+<pre style="white-space: pre; font-family: monospace; overflow-x: auto;">
+┌──────────────┬───────────────────────────────┬──────────────────────────────────┐
+│ Tipo Tubo    │ Método de Unión               │ Uso Principal                    │
+├──────────────┼───────────────────────────────┼──────────────────────────────────┤
+│ Multicapa    │ A presión (Press-fitting) o   │ Agua fría/caliente y calefacción.│
+│ (Aluminio)   │ de compresión (a rosca).      │ Fácil de doblar, flexible.       │
+├──────────────┼───────────────────────────────┼──────────────────────────────────┤
+│ Cobre        │ Soldadura de estaño o         │ Instalaciones tradicionales,     │
+│              │ racores automáticos / comp.   │ gas y termos/calderas.           │
+├──────────────┼───────────────────────────────┼──────────────────────────────────┤
+│ PEX (Poliet.)│ Apretando casquillo o anillo  │ Saneamiento interior, suelos     │
+│              │ de expansión.                 │ radiantes y fontanería flexible. │
+├──────────────┼───────────────────────────────┼──────────────────────────────────┤
+│ PVC / PP     │ Encolado (pegamento PVC) o    │ Evacuación de agua / desagües    │
+│              │ junta elástica de goma.       │ (fregaderos, duchas, bajantes).  │
+└──────────────┴───────────────────────────────┴──────────────────────────────────┘
+</pre>
+
+---
+
+### B. Equivalencia de Roscas (Pulgadas ➔ Milímetros)
+En fontanería casi todo se mide en **pulgadas (")**, pero los clientes suelen medir la rosca con un metro. Guarda esta tabla para saber qué darles al instante:
+
+<pre style="white-space: pre; font-family: monospace; overflow-x: auto;">
+┌────────────┬──────────────┬─────────────────────────────────────────────┐
+│ Pulgadas   │ Diámetro Aprox│ Uso Típico en Vivienda                       │
+├────────────┼──────────────┼─────────────────────────────────────────────┤
+│ 3/8"       │ ~ 16 mm      │ Latiguillos de lavabo, bidet y cisternas.   │
+├────────────┼──────────────┼─────────────────────────────────────────────┤
+│ 1/2"       │ ~ 20 mm      │ Tomas de agua de pared, duchas, lavadoras.  │
+├────────────┼──────────────┼─────────────────────────────────────────────┤
+│ 3/4"       │ ~ 25 mm      │ Entrada de lavadoras, lavavajillas, termos. │
+├────────────┼──────────────┼─────────────────────────────────────────────┤
+│ 1"         │ ~ 32 mm      │ Contadores, llaves de paso principales.     │
+└────────────┴──────────────┴─────────────────────────────────────────────┘
+</pre>
+
+* **Macho (M):** Lleva la rosca por **fuera**.
+* **Hembra (H):** Lleva la rosca por **dentro**.
+
+---
+
+### C. Sellado de Roscas (Estanqueidad)
+* **Teflón en cinta:** Para roscas metálicas o plásticas pequeñas. Se da en el sentido de las agujas del reloj.
+* **Hilo Sellador (tipo Loctite/Teflón hilo):** Más limpio, rápido y permite reajustar la pieza un poco hacia atrás sin que pierda agua.
+* **Cáñamo + Pasta Selladora:** El método tradicional e infalible para agua caliente/fría en roscas metálicas gruesas.
+* **Juntas de Goma / Silicona:** Imprescindibles en latiguillos y enlaces racor (no necesitan teflón en la rosca).
 ### D. Elementos de Distribución
 * **Repartidor / Splitter:** Divide la señal en partes iguales (2, 3, 4, 6 o 8 salidas).
 * **Derivador:** Para viviendas de varias plantas. Mantiene viva la línea principal y extrae una derivación con poca pérdida para cada planta.
