@@ -114,7 +114,6 @@ Pletinas de cobre aisladas que conectan varios magnetotérmicos en paralelo en l
 | :--- | :--- | :--- | :--- | :--- |
 | **1P + N** (Estándar Vivienda) | Corta **Fase y Neutro** | Protege solo en la **Fase** | **1 Módulo** (17,5 mm) | Cuadros de vivienda habituales (ahorra espacio). |
 | **2P** (Doble Completo) | Corta **Fase y Neutro** | Protege en **Fase y Neutro** | **2 Módulos** (35 mm) | Uso industrial, comercios o redes con neutro con interferencias. |
-
 ---
 
 ## 11. Esquema Unifilar Básico de un Cuadro de Vivienda
@@ -122,7 +121,6 @@ Pletinas de cobre aisladas que conectan varios magnetotérmicos en paralelo en l
 Así se distribuye la corriente desde la entrada principal hasta cada circuito de la casa:
 
 ```text
-
 [ Entrada de Red / Contador ]
               │
               ▼
@@ -141,6 +139,5 @@ Así se distribuye la corriente desde la entrada principal hasta cada circuito d
    │                 │               │               │
  Iluminación       Enchufes         Lavadora /       Cocina /
  (1,5 mm²)        (2,5 mm²)       Termo (4 mm²)   Horno (6 mm²)
-   │                 │               │               │
- Iluminación       Enchufes         Lavadora /       Cocina /
- (1,5 mm²)        (2,5 mm²)       Termo (4 mm²)   Horno (6 mm²)
+
+
