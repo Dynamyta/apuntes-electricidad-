@@ -135,8 +135,11 @@ Así se distribuye la corriente desde la entrada principal hasta cada circuito d
               │
      ┌────────┴────────┬───────────────┬───────────────┐
      ▼                 ▼               ▼               ▼
- [PIA C1]          [PIA C2]        [PIA C3]        [PIA C4] ...
+ [PIA C1]          [PIA C2]        [PIA C3]        [PIA C4]
   (10A)             (16A)           (20A)           (25A)
+   │                 │               │               │
+ Iluminación       Enchufes         Lavadora /       Cocina /
+ (1,5 mm²)        (2,5 mm²)       Termo (4 mm²)   Horno (6 mm²)
    │                 │               │               │
  Iluminación       Enchufes         Lavadora /       Cocina /
  (1,5 mm²)        (2,5 mm²)       Termo (4 mm²)   Horno (6 mm²)
