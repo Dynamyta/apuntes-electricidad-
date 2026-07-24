@@ -116,11 +116,13 @@ Pletinas de cobre aisladas que conectan varios magnetotérmicos en paralelo en l
 | **2P** (Doble Completo) | Corta **Fase y Neutro** | Protege en **Fase y Neutro** | **2 Módulos** (35 mm) | Uso industrial, comercios o redes con neutro con interferencias. |
 ---
 
+---
+
 ## 11. Esquema Unifilar Básico de un Cuadro de Vivienda
 
 Así se distribuye la corriente desde la entrada principal hasta cada circuito de la casa:
 
-```text
+<pre style="white-space: pre; font-family: monospace; overflow-x: auto;">
 [ Entrada de Red / Contador ]
               │
               ▼
@@ -139,5 +141,13 @@ Así se distribuye la corriente desde la entrada principal hasta cada circuito d
    │                 │               │               │
  Iluminación       Enchufes         Lavadora /       Cocina /
  (1,5 mm²)        (2,5 mm²)       Termo (4 mm²)   Horno (6 mm²)
+</pre>
 
+---
+
+### Orden de Instalación en el Carril DIN:
+1. **Entrada:** Llegada de Fase y Neutro al **IGA**.
+2. **Protección de picos:** Del IGA deriva o se conecta el **Protector de Sobretensiones**.
+3. **Seguridad personal:** Del IGA / Sobretensiones pasa al **Diferencial (ID)**.
+4. **Reparto por zonas:** Salida del Diferencial hacia el **Peine de conexión** que alimenta por arriba a todos los **PIAs** (C1, C2, C3, C4, C5...).
 
