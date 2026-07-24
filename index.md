@@ -80,3 +80,37 @@ Relación orientativa entre la potencia contratada de la vivienda, la corriente 
 * **Fase:** Marrón, Negro o Gris.
 * **Neutro:** Azul claro.
 * **Toma de Tierra:** Franjas Verde y Amarilla.
+
+* ---
+
+## 8. Cajas de Empotrar para Cuadros Eléctricos
+
+Las cajas se eligen según **tres factores clave**:
+
+* **Nº de Módulos (Ancho DIN):** Cada módulo mide 17,5 mm. Tamaños habituales: **4, 6, 8, 12, 18, 24, 36 módulos**.
+  * *Recomendación:* Aconsejar siempre dejar un **20-30% de módulos libres** para futuras ampliaciones (aire acondicionado, paneles solares, cargador de coche).
+* **Tipo de Pared:**
+  * **Obra / Ladrillo:** Caja de plástico rígido liso para fijar con yeso/mortero.
+  * **Pladur / Pared Hueca:** Lleva **garras metálicas/plásticas con tornillos** laterales para presionar la placa de cartón yeso.
+* **Uso y Entorno:**
+  * **IP40:** Uso estándar en interior de viviendas.
+  * **IP65:** Estanqueidad alta contra agua y polvo (para exterior, garajes o trasteros).
+
+---
+
+## 9. Peines de Conexión (Puentes de Unión)
+
+Pletinas de cobre aisladas que conectan varios magnetotérmicos en paralelo en la misma fila sin acumular cables:
+
+* **Monofásicos (L+N):** Para cuadros de vivienda estándar (pasa Fase y Neutro en patillas alternadas).
+* **Trifásicos (3P o 3P+N):** Para instalaciones comerciales o industriales trifásicas.
+* Se eligen por número de módulos (ej: 12, 24 módulos) o en tiras recortables.
+
+---
+
+## 10. Magnetotérmicos: Simple (1P+N) vs. Doble (2P)
+
+| Tipo | ¿Qué corta? | ¿Qué detecta/protege? | Ancho | Uso Principal |
+| :--- | :--- | :--- | :--- | :--- |
+| **1P + N** (Estándar Vivienda) | Corta **Fase y Neutro** | Protege solo en la **Fase** | **1 Módulo** (17,5 mm) | Cuadros de vivienda habituales (ahorra espacio). |
+| **2P** (Doble Completo) | Corta **Fase y Neutro** | Protege en **Fase y Neutro** | **2 Módulos** (35 mm) | Uso industrial, comercios o redes con neutro con interferencias. |
