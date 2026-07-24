@@ -122,6 +122,7 @@ Pletinas de cobre aisladas que conectan varios magnetotérmicos en paralelo en l
 Así se distribuye la corriente desde la entrada principal hasta cada circuito de la casa:
 
 ```text
+
 [ Entrada de Red / Contador ]
               │
               ▼
