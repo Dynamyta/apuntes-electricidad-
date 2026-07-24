@@ -210,7 +210,12 @@ Así se distribuye la corriente desde la entrada principal hasta cada circuito d
       ▼    ▼    ▼
      TV1  TV2  TV3 (Tomas Finales de Pared)
 </pre>
-
+### D. Elementos de Distribución
+* **Repartidor / Splitter:** Divide la señal en partes iguales (2, 3, 4, 6 o 8 salidas).
+* **Derivador:** Para viviendas de varias plantas. Mantiene viva la línea principal y extrae una derivación con poca pérdida para cada planta.
+* **Tomas de Pared:**
+  * **Toma Final:** Se coloca al final de una línea (lleva resistencia interna de 75 Ω).
+  * **Toma Pasante:** Permite continuar el cable hacia la siguiente habitación
 ---
 ---
 
@@ -264,10 +269,5 @@ En fontanería casi todo se mide en **pulgadas (")**, pero los clientes suelen m
 * **Hilo Sellador (tipo Loctite/Teflón hilo):** Más limpio, rápido y permite reajustar la pieza un poco hacia atrás sin que pierda agua.
 * **Cáñamo + Pasta Selladora:** El método tradicional e infalible para agua caliente/fría en roscas metálicas gruesas.
 * **Juntas de Goma / Silicona:** Imprescindibles en latiguillos y enlaces racor (no necesitan teflón en la rosca).
-### D. Elementos de Distribución
-* **Repartidor / Splitter:** Divide la señal en partes iguales (2, 3, 4, 6 o 8 salidas).
-* **Derivador:** Para viviendas de varias plantas. Mantiene viva la línea principal y extrae una derivación con poca pérdida para cada planta.
-* **Tomas de Pared:**
-  * **Toma Final:** Se coloca al final de una línea (lleva resistencia interna de 75 Ω).
-  * **Toma Pasante:** Permite continuar el cable hacia la siguiente habitación.
+.
 
