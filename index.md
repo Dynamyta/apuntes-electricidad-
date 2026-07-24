@@ -40,3 +40,43 @@ Sección de conductor de cobre según el uso normalizado:
 ---
 
 > **Nota:** La sección adecuada del cable garantiza evitar calentamientos en la línea y pérdidas de tensión innecesarias.
+> ---
+
+## 4. Tipos de Magnetotérmicos (PIAs) y Características
+
+Los Pequeños Interruptores Automáticos (PIAs) protegen las líneas individuales frente a sobrecargas y cortocircuitos:
+
+* **Corte Bipolar (1P+N / 2P):** Cortan tanto la **Fase** como el **Neutro**. Es la norma estándar en instalaciones residenciales para garantizar la seguridad total al maniobrar o ante un fallo en el circuito.
+* **Curva de Disparo tipo C:** Es el estándar en viviendas. Salta rápido ante cortocircuitos pero tolera pequeños picos de arranque habituales en electrodomésticos comunes.
+
+---
+
+## 5. Tipos de Interruptores Diferenciales (ID)
+
+Protegen a las personas frente a fugas de corriente a tierra. La sensibilidad habitual en viviendas es de **30 mA**:
+
+* **Clase AC (Estándar):** Detecta fugas de corriente alterna puras. Apto para circuitos básicos de iluminación y cargas simples.
+* **Clase A / Superinmunizado (SI):**
+  * **¿Por qué usarlo?:** Los electrodomésticos modernos con electrónica avanzada, variadores de frecuencia, placas de inducción, aires acondicionados e inversores solares generan armónicos y corrientes continuas pulsantes que pueden hacer saltar un diferencial normal (disparos intempestivos).
+  * **Ventaja:** Evita saltos en falso causados por ruido de la red o interferencias electrónicas y garantiza protección real ante fugas con componente continua.
+
+---
+
+## 6. Potencias Contratadas Habituales y Calibre Principal (IGA)
+
+Relación orientativa entre la potencia contratada de la vivienda, la corriente máxima aproximada y el IGA recomendado:
+
+| Potencia Contratada (Monofásica 230V) | Calibre del IGA Recomendado | Uso habitual |
+| :--- | :--- | :--- |
+| **3,45 kW** | 16 A | Viviendas pequeñas con equipamiento básico / gas |
+| **4,6 kW** | 20 A | Vivienda estándar con vitrocerámica y aire acondicionado |
+| **5,75 kW** | 25 A | Vivienda equipada / termo eléctrico + climatización |
+| **9,2 kW** | 40 A | Vivienda con elevado consumo eléctrico / aerotermia |
+
+---
+
+## 7. Código de Colores Normalizado para Cableado
+
+* **Fase:** Marrón, Negro o Gris.
+* **Neutro:** Azul claro.
+* **Toma de Tierra:** Franjas Verde y Amarilla.
