@@ -173,3 +173,50 @@ Así se distribuye la corriente desde la entrada principal hasta cada circuito d
 3. **Seguridad personal:** Del IGA / Sobretensiones pasa al **Diferencial (ID)**.
 4. **Reparto por zonas:** Salida del Diferencial hacia el **Peine de conexión** que alimenta por arriba a todos los **PIAs** (C1, C2, C3, C4, C5...).
 
+---
+
+## 12. Guía Rápidas de Antenas TV y Coaxial
+
+### A. Tipos de Cable Coaxial
+* **Interior (Blanco / PVC):** Para tiradas cortas dentro de casa. El sol directo degrada la cubierta en exterior.
+* **Exterior (Negro / Polietileno - PE):** Resistente a rayos UV y humedad. **Imprescindible para tejado, fachadas o tubos exteriores.**
+* **Calidad T-100 / T-200:** Cable con mayor mallas de apantallamiento y alma de cobre gruesa. **Recomendado para evitar interferencias 4G/5G y pérdidas en tiradas largas o parabólica.**
+
+---
+
+### B. Conectores Principales
+* **Conector F (Rosca):** Estándar metálico a rosca. Se usa en antenas, amplificadores, repartidores y parabólicas.
+* **Conector CEI / IEC (TV Clásico):** El conector tradicional de plástico o metálico para la tele/toma de pared.
+  * **Macho:** El que se enchufa a la TV o a la toma.
+  * **Hembra:** El que recibe el pin.
+* **Pelado correcto:** El hilo central (vivo) nunca debe tocar los pelillos de la malla exterior, de lo contrario se produce un cortocircuito de señal y no se verá la tele.
+
+---
+
+### C. Esquema Básico de Instalación Individual
+
+<pre style="white-space: pre; font-family: monospace; overflow-x: auto;">
+ [ Antena TDT (Tejado) ]
+           │ (Cable Exterior Negro)
+           ▼
+ [ Amplificador de Mástil ] (Exterior / Mezcla TDT + Satélite)
+           │
+           ▼ (Bajada de cable)
+ [ Fuente de Alimentación ] (Interior / Da corriente al amplificador por el coaxial)
+           │
+           ▼
+ [ Repartidor / Splitter ] (Divide la señal a 2, 3 o 4 salidas)
+      ┌────┼────┐
+      ▼    ▼    ▼
+     TV1  TV2  TV3 (Tomas Finales de Pared)
+</pre>
+
+---
+
+### D. Elementos de Distribución
+* **Repartidor / Splitter:** Divide la señal en partes iguales (2, 3, 4, 6 o 8 salidas).
+* **Derivador:** Para viviendas de varias plantas. Mantiene viva la línea principal y extrae una derivación con poca pérdida para cada planta.
+* **Tomas de Pared:**
+  * **Toma Final:** Se coloca al final de una línea (lleva resistencia interna de 75 Ω).
+  * **Toma Pasante:** Permite continuar el cable hacia la siguiente habitación.
+
