@@ -216,7 +216,7 @@ Así se distribuye la corriente desde la entrada principal hasta cada circuito d
 * **Tomas de Pared:**
   * **Toma Final:** Se coloca al final de una línea (lleva resistencia interna de 75 Ω).
   * **Toma Pasante:** Permite continuar el cable hacia la siguiente habitación
----
+
 ---
 
 ## 13. Guía Rápida de Fontanería: Tuberías y Conexiones
