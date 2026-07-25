@@ -1,5 +1,5 @@
 # Manual de Conceptos Básicos de Electricidad y Protección Antenas y fontaneria .
-
+<img src="iamgen_2.png" alt="Esquema Técnico de Cuadro Eléctrico" style="max-width: 100%; height: auto; display: block; margin: 20px auto; border-radius: 8px;">
 ## 1. Componentes del Cuadro General de Mando y Protección (CGMP)
 
 El cuadro eléctrico organiza la distribución y protección de las líneas de la vivienda:
