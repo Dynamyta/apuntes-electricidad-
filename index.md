@@ -283,3 +283,4 @@ Las roscas se miden en **pulgadas (")**. Tabla rápida para identificar la medid
 * **Hilo Sellador (tipo Loctite/Teflón hilo):** Más limpio y permite reajustar la pieza un poco hacia atrás sin fugas.
 * **Cáñamo + Pasta Selladora:** El método tradicional e infalible para agua caliente/fría en roscas metálicas gruesas.
 * **Juntas de Goma / Silicona:** Imprescindibles en latiguillos y enlaces racor (no necesitan teflón).
+  <img src="imagen_3.png" alt="Esquema Técnico de Fontanería con Diámetros RITE y Caldera" style="max-width: 100%; height: auto; display: block; margin: 25px auto; border-radius: 8px;">
