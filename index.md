@@ -194,7 +194,7 @@ Así se distribuye la corriente desde la entrada principal hasta cada circuito d
 ---
 
 ### C. Esquema Básico de Instalación Individual
-![Esquema Técnico de Instalación de Antenas](imagen_1.png)
+<img src="imagen_1.png" alt="Esquema Técnico de Antenas" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 8px;">
 
 <pre style="white-space: pre; font-family: monospace; overflow-x: auto;">
  [ Antena TDT (Tejado) ]
