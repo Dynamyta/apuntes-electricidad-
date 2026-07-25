@@ -249,7 +249,16 @@ En desagües se mide **siempre en milímetros de diámetro exterior**:
 * **40 mm (SÚPER VENTAS):** Estándar principal para **lavabos, bidés, duchas y bañeras**.
 * **50 mm (SÚPER VENTAS):** Estándar imprescindible para **fregaderos de cocina, lavadoras y lavavajillas** (necesitan evacuar más agua con grasa o jabón sin atascarse).
 * **90 mm / 110 mm:** Salidas de inodoro (WC) y bajantes generales.
+### Diámetros de Tubo Recomendados en Vivienda (Multicapa vs Cobre)
 
+* **Entrada Principal / Colector (General):** 
+  * Multicapa: **Ø 25 mm** | Cobre: **Ø 22 mm**
+* **Línea General de Baño / Cocina:** 
+  * Multicapa: **Ø 20 mm** | Cobre: **Ø 18 mm**
+* **Derivación Individual a Grifos (Lavabo, Bidet, Ducha, WC, Lavadora):** 
+  * Multicapa: **Ø 16 mm** (estándar de tienda) | Cobre: **Ø 12/14 mm**
+* **Bañeras / Hidromasaje:** 
+  * Multicapa: **Ø 20 mm** | Cobre: **Ø 18/22 mm**
 ---
 
 ### C. Equivalencia de Roscas (Pulgadas ➔ Milímetros)
