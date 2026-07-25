@@ -1,5 +1,5 @@
 # Manual de Conceptos Básicos de Electricidad y Protección Antenas y fontaneria .
-<img src="iamgen_2.png" alt="Esquema Técnico de Cuadro Eléctrico" style="max-width: 100%; height: auto; display: block; margin: 20px auto; border-radius: 8px;">
+
 ## 1. Componentes del Cuadro General de Mando y Protección (CGMP)
 
 El cuadro eléctrico organiza la distribución y protección de las líneas de la vivienda:
@@ -143,7 +143,7 @@ Pletinas de cobre aisladas que conectan varios magnetotérmicos en paralelo en l
 ## 11. Esquema Unifilar Básico de un Cuadro de Vivienda
 
 Así se distribuye la corriente desde la entrada principal hasta cada circuito de la casa:
-
+<img src="imagen_2.png" alt="Esquema Técnico de Cuadro Eléctrico" style="max-width: 100%; height: auto; display: block; margin: 20px auto; border-radius: 8px;">
 <pre style="white-space: pre; font-family: monospace; overflow-x: auto;">
 [ Entrada de Red / Contador ]
               │
